@@ -1,0 +1,351 @@
+Order_ID,Order_Date,Month,Month_No,Day_of_Week,City,Restaurant,Cuisine,Meal_Slot,Items_Ordered,Order_Value,Discount,Delivery_Fee,Final_Amount,Payment_Mode,Delivery_Time_Min,Customer_Rating,Order_Status
+SWG10030,2026-01-01,Jan,1,Thursday,Lucknow,Royal Rasoi,North Indian,Dinner,4,780,0,30,810,Credit/Debit Card,36,5.0,Delivered
+SWG10235,2026-01-01,Jan,1,Thursday,Mumbai,Dhaba Express,North Indian,Lunch,1,250,0,40,290,UPI,21,3.0,Delivered
+SWG10158,2026-01-02,Jan,1,Friday,Kolkata,Dhaba Express,North Indian,Dinner,5,1120,0,0,0,Credit/Debit Card,32,,Cancelled
+SWG10192,2026-01-03,Jan,1,Saturday,Delhi,Punjabi Tadka,North Indian,Dinner,3,590,59,30,561,Credit/Debit Card,40,5.0,Delivered
+SWG10302,2026-01-04,Jan,1,Sunday,Delhi,Idli Express,South Indian,Dinner,2,270,27,0,243,UPI,41,5.0,Delivered
+SWG10135,2026-01-05,Jan,1,Monday,Bengaluru,Paradise Biryani,Biryani,Dinner,3,1070,214,25,881,UPI,21,5.0,Delivered
+SWG10024,2026-01-05,Jan,1,Monday,Delhi,Royal Rasoi,North Indian,Lunch,5,950,95,30,0,Swiggy Money,49,,Cancelled
+SWG10280,2026-01-06,Jan,1,Tuesday,Chennai,Udupi Bhavan,South Indian,Dinner,4,630,189,0,441,Cash on Delivery,26,5.0,Delivered
+SWG10151,2026-01-06,Jan,1,Tuesday,Mumbai,Biryani Blues,Biryani,Lunch,2,680,204,25,501,UPI,28,4.0,Delivered
+SWG10180,2026-01-07,Jan,1,Wednesday,Bengaluru,Idli Express,South Indian,Lunch,1,160,0,40,200,Swiggy Money,34,3.0,Delivered
+SWG10293,2026-01-07,Jan,1,Wednesday,Kolkata,Dosa Corner,South Indian,Dinner,5,980,0,0,980,Swiggy Money,41,4.0,Delivered
+SWG10267,2026-01-08,Jan,1,Thursday,Delhi,Salad Stop,Healthy,Late Night,2,410,0,25,435,UPI,32,1.0,Delivered
+SWG10114,2026-01-09,Jan,1,Friday,Bengaluru,Paradise Biryani,Biryani,Dinner,3,960,0,30,990,UPI,33,5.0,Delivered
+SWG10073,2026-01-12,Jan,1,Monday,Delhi,Idli Express,South Indian,Late Night,2,320,32,30,318,Swiggy Money,28,5.0,Delivered
+SWG10216,2026-01-16,Jan,1,Friday,Chennai,Dhaba Express,North Indian,Lunch,1,280,0,0,280,Credit/Debit Card,32,4.0,Delivered
+SWG10336,2026-01-17,Jan,1,Saturday,Mumbai,Wok Station,Chinese,Dinner,1,260,26,50,284,UPI,35,5.0,Delivered
+SWG10140,2026-01-17,Jan,1,Saturday,Bengaluru,Wrap Hub,Fast Food,Dinner,3,730,0,0,730,UPI,19,3.0,Delivered
+SWG10175,2026-01-17,Jan,1,Saturday,Delhi,Royal Rasoi,North Indian,Lunch,1,300,60,50,290,Cash on Delivery,32,3.0,Delivered
+SWG10075,2026-01-18,Jan,1,Sunday,Chennai,Punjabi Tadka,North Indian,Dinner,1,260,0,40,300,UPI,36,5.0,Delivered
+SWG10328,2026-01-19,Jan,1,Monday,Hyderabad,Biryani Blues,Biryani,Lunch,3,900,180,0,720,Swiggy Money,21,5.0,Delivered
+SWG10069,2026-01-19,Jan,1,Monday,Kolkata,Pizza Palace,Pizza,Dinner,4,1330,0,30,1360,UPI,38,3.0,Delivered
+SWG10301,2026-01-20,Jan,1,Tuesday,Chennai,Green Bowl,Healthy,Lunch,3,670,67,25,628,Swiggy Money,45,4.0,Delivered
+SWG10298,2026-01-21,Jan,1,Wednesday,Lucknow,Punjabi Tadka,North Indian,Dinner,3,690,207,0,483,UPI,55,5.0,Delivered
+SWG10058,2026-01-21,Jan,1,Wednesday,Chennai,Burger Point,Fast Food,Late Night,4,820,82,0,738,UPI,21,4.0,Delivered
+SWG10059,2026-01-21,Jan,1,Wednesday,Lucknow,Slice House,Pizza,Dinner,3,1350,405,25,970,UPI,41,4.0,Delivered
+SWG10130,2026-01-22,Jan,1,Thursday,Chennai,Chung Wah,Chinese,Dinner,3,530,53,25,502,Cash on Delivery,29,2.0,Delivered
+SWG10160,2026-01-23,Jan,1,Friday,Bengaluru,Wok Station,Chinese,Snacks,2,490,98,0,392,UPI,28,3.0,Delivered
+SWG10070,2026-01-24,Jan,1,Saturday,Bengaluru,Wrap Hub,Fast Food,Lunch,4,790,158,0,632,UPI,44,4.0,Delivered
+SWG10255,2026-01-26,Jan,1,Monday,Bengaluru,Hyderabad House,Biryani,Late Night,4,1430,0,30,1460,Swiggy Money,30,4.0,Delivered
+SWG10089,2026-01-27,Jan,1,Tuesday,Hyderabad,Chung Wah,Chinese,Late Night,2,340,34,40,346,UPI,25,3.0,Delivered
+SWG10317,2026-01-29,Jan,1,Thursday,Bengaluru,Chung Wah,Chinese,Lunch,1,220,44,25,201,UPI,40,5.0,Delivered
+SWG10232,2026-01-30,Jan,1,Friday,Mumbai,Royal Rasoi,North Indian,Dinner,3,520,104,25,441,Swiggy Money,44,4.0,Delivered
+SWG10019,2026-01-30,Jan,1,Friday,Pune,Punjabi Tadka,North Indian,Late Night,3,720,144,0,576,UPI,36,5.0,Delivered
+SWG10260,2026-01-30,Jan,1,Friday,Mumbai,Crispy Bites,Fast Food,Dinner,5,1110,0,0,1110,UPI,38,4.0,Delivered
+SWG10327,2026-01-30,Jan,1,Friday,Hyderabad,Crispy Bites,Fast Food,Late Night,4,770,154,25,641,Swiggy Money,36,3.0,Delivered
+SWG10201,2026-01-31,Jan,1,Saturday,Hyderabad,Ice Dream,Desserts,Late Night,4,530,106,30,454,UPI,34,3.0,Delivered
+SWG10081,2026-02-01,Feb,2,Sunday,Lucknow,Slice House,Pizza,Snacks,1,400,40,25,385,UPI,33,4.0,Delivered
+SWG10013,2026-02-02,Feb,2,Monday,Lucknow,Crispy Bites,Fast Food,Lunch,2,410,0,0,410,UPI,27,2.0,Delivered
+SWG10008,2026-02-02,Feb,2,Monday,Bengaluru,Dhaba Express,North Indian,Snacks,1,260,52,40,248,Swiggy Money,36,4.0,Delivered
+SWG10268,2026-02-03,Feb,2,Tuesday,Chennai,Hyderabad House,Biryani,Dinner,1,280,28,25,277,Credit/Debit Card,27,4.0,Delivered
+SWG10254,2026-02-03,Feb,2,Tuesday,Pune,Crispy Bites,Fast Food,Lunch,3,740,148,0,592,Cash on Delivery,43,3.0,Delivered
+SWG10115,2026-02-04,Feb,2,Wednesday,Hyderabad,Paradise Biryani,Biryani,Late Night,2,650,0,25,675,UPI,18,1.0,Delivered
+SWG10319,2026-02-05,Feb,2,Thursday,Mumbai,Crispy Bites,Fast Food,Lunch,2,460,0,30,490,Credit/Debit Card,29,5.0,Delivered
+SWG10185,2026-02-05,Feb,2,Thursday,Pune,Punjabi Tadka,North Indian,Dinner,3,900,0,25,925,UPI,39,4.0,Delivered
+SWG10156,2026-02-05,Feb,2,Thursday,Chennai,Wok Station,Chinese,Late Night,1,200,0,0,200,Cash on Delivery,27,4.0,Delivered
+SWG10208,2026-02-05,Feb,2,Thursday,Kolkata,Dhaba Express,North Indian,Dinner,3,820,0,0,820,UPI,37,5.0,Delivered
+SWG10057,2026-02-06,Feb,2,Friday,Mumbai,Dhaba Express,North Indian,Breakfast,2,380,0,25,405,UPI,34,5.0,Delivered
+SWG10343,2026-02-06,Feb,2,Friday,Kolkata,Crispy Bites,Fast Food,Breakfast,4,780,78,30,732,Credit/Debit Card,28,5.0,Delivered
+SWG10296,2026-02-07,Feb,2,Saturday,Hyderabad,Pizza Palace,Pizza,Dinner,3,1290,0,25,1315,Credit/Debit Card,44,3.0,Delivered
+SWG10021,2026-02-07,Feb,2,Saturday,Chennai,Dosa Corner,South Indian,Dinner,4,770,0,0,770,UPI,32,2.0,Delivered
+SWG10236,2026-02-07,Feb,2,Saturday,Bengaluru,Wrap Hub,Fast Food,Snacks,1,160,16,30,0,Credit/Debit Card,22,,Cancelled
+SWG10228,2026-02-08,Feb,2,Sunday,Pune,Udupi Bhavan,South Indian,Breakfast,3,500,50,25,475,Cash on Delivery,40,5.0,Delivered
+SWG10314,2026-02-09,Feb,2,Monday,Pune,Hyderabad House,Biryani,Dinner,2,480,96,25,409,UPI,39,5.0,Delivered
+SWG10101,2026-02-09,Feb,2,Monday,Delhi,Royal Rasoi,North Indian,Dinner,2,350,35,30,345,Credit/Debit Card,40,4.0,Delivered
+SWG10144,2026-02-10,Feb,2,Tuesday,Lucknow,Oven Story,Pizza,Lunch,5,2100,0,25,2125,UPI,26,4.0,Delivered
+SWG10129,2026-02-10,Feb,2,Tuesday,Mumbai,Royal Rasoi,North Indian,Lunch,4,800,240,25,585,UPI,25,4.0,Delivered
+SWG10173,2026-02-11,Feb,2,Wednesday,Bengaluru,Salad Stop,Healthy,Dinner,2,480,96,25,409,UPI,45,4.0,Delivered
+SWG10305,2026-02-13,Feb,2,Friday,Lucknow,Royal Rasoi,North Indian,Lunch,4,750,0,30,780,Cash on Delivery,31,4.0,Delivered
+SWG10033,2026-02-13,Feb,2,Friday,Delhi,Burger Point,Fast Food,Lunch,2,480,144,0,336,Credit/Debit Card,26,5.0,Delivered
+SWG10223,2026-02-13,Feb,2,Friday,Bengaluru,Biryani Blues,Biryani,Dinner,4,1130,226,30,934,UPI,25,4.0,Delivered
+SWG10088,2026-02-13,Feb,2,Friday,Mumbai,Biryani Blues,Biryani,Lunch,5,1650,165,0,1485,Credit/Debit Card,39,5.0,Delivered
+SWG10209,2026-02-14,Feb,2,Saturday,Mumbai,Wrap Hub,Fast Food,Late Night,4,870,87,0,783,UPI,34,4.0,Delivered
+SWG10150,2026-02-14,Feb,2,Saturday,Pune,Dhaba Express,North Indian,Snacks,4,1170,234,25,961,UPI,33,5.0,Delivered
+SWG10303,2026-02-14,Feb,2,Saturday,Pune,Dosa Corner,South Indian,Lunch,2,270,54,50,266,Credit/Debit Card,39,2.0,Delivered
+SWG10348,2026-02-15,Feb,2,Sunday,Delhi,Wrap Hub,Fast Food,Snacks,2,510,51,0,459,UPI,27,4.0,Delivered
+SWG10097,2026-02-15,Feb,2,Sunday,Lucknow,Dhaba Express,North Indian,Snacks,4,930,186,25,769,Credit/Debit Card,38,2.0,Delivered
+SWG10111,2026-02-16,Feb,2,Monday,Mumbai,Pizza Palace,Pizza,Late Night,2,880,0,30,910,UPI,33,1.0,Delivered
+SWG10329,2026-02-16,Feb,2,Monday,Pune,Paradise Biryani,Biryani,Dinner,2,630,63,0,567,UPI,35,4.0,Delivered
+SWG10226,2026-02-16,Feb,2,Monday,Mumbai,Wrap Hub,Fast Food,Dinner,3,510,102,0,0,Credit/Debit Card,43,,Cancelled
+SWG10282,2026-02-16,Feb,2,Monday,Bengaluru,Chung Wah,Chinese,Dinner,3,510,51,0,0,UPI,45,,Cancelled
+SWG10203,2026-02-17,Feb,2,Tuesday,Pune,Crispy Bites,Fast Food,Dinner,4,790,79,0,711,UPI,25,2.0,Delivered
+SWG10276,2026-02-17,Feb,2,Tuesday,Bengaluru,Wrap Hub,Fast Food,Snacks,2,500,150,25,375,Swiggy Money,24,3.0,Delivered
+SWG10164,2026-02-17,Feb,2,Tuesday,Bengaluru,Paradise Biryani,Biryani,Dinner,2,650,195,25,480,Credit/Debit Card,44,2.0,Delivered
+SWG10174,2026-02-18,Feb,2,Wednesday,Chennai,Crispy Bites,Fast Food,Late Night,1,250,25,30,255,Cash on Delivery,21,3.0,Delivered
+SWG10337,2026-02-21,Feb,2,Saturday,Bengaluru,Dragon Bowl,Chinese,Lunch,2,310,62,40,288,Swiggy Money,27,3.0,Delivered
+SWG10241,2026-02-21,Feb,2,Saturday,Delhi,Dhaba Express,North Indian,Dinner,2,580,58,30,552,UPI,39,3.0,Delivered
+SWG10004,2026-02-21,Feb,2,Saturday,Chennai,Punjabi Tadka,North Indian,Snacks,2,420,0,0,420,UPI,39,5.0,Delivered
+SWG10287,2026-02-23,Feb,2,Monday,Delhi,Chung Wah,Chinese,Snacks,4,720,72,0,648,Swiggy Money,18,4.0,Delivered
+SWG10116,2026-02-23,Feb,2,Monday,Delhi,Dosa Corner,South Indian,Dinner,3,420,0,0,420,UPI,33,4.0,Delivered
+SWG10148,2026-02-24,Feb,2,Tuesday,Pune,Ice Dream,Desserts,Late Night,2,250,0,50,300,Credit/Debit Card,16,4.0,Delivered
+SWG10330,2026-02-24,Feb,2,Tuesday,Lucknow,Dosa Corner,South Indian,Dinner,2,220,0,50,270,Cash on Delivery,26,4.0,Delivered
+SWG10187,2026-02-25,Feb,2,Wednesday,Pune,Idli Express,South Indian,Dinner,4,630,63,0,567,Credit/Debit Card,32,2.0,Delivered
+SWG10277,2026-02-27,Feb,2,Friday,Mumbai,Idli Express,South Indian,Lunch,4,720,72,0,648,UPI,28,3.0,Delivered
+SWG10250,2026-02-27,Feb,2,Friday,Mumbai,Dosa Corner,South Indian,Snacks,4,720,72,30,678,Swiggy Money,17,4.0,Delivered
+SWG10084,2026-02-28,Feb,2,Saturday,Mumbai,Hyderabad House,Biryani,Dinner,1,220,44,50,226,Credit/Debit Card,33,5.0,Delivered
+SWG10245,2026-03-01,Mar,3,Sunday,Delhi,Royal Rasoi,North Indian,Lunch,2,510,153,30,387,UPI,24,3.0,Delivered
+SWG10079,2026-03-01,Mar,3,Sunday,Mumbai,Idli Express,South Indian,Lunch,1,190,0,40,230,Credit/Debit Card,35,5.0,Delivered
+SWG10248,2026-03-03,Mar,3,Tuesday,Bengaluru,Sweet Tooth,Desserts,Late Night,3,510,153,0,357,Swiggy Money,36,5.0,Delivered
+SWG10215,2026-03-03,Mar,3,Tuesday,Kolkata,Royal Rasoi,North Indian,Breakfast,3,530,106,0,424,Cash on Delivery,32,4.0,Delivered
+SWG10003,2026-03-05,Mar,3,Thursday,Delhi,Udupi Bhavan,South Indian,Late Night,2,260,0,40,300,Credit/Debit Card,24,4.0,Delivered
+SWG10346,2026-03-06,Mar,3,Friday,Bengaluru,Ice Dream,Desserts,Lunch,2,290,58,40,272,UPI,33,1.0,Delivered
+SWG10122,2026-03-06,Mar,3,Friday,Chennai,Fit Kitchen,Healthy,Breakfast,1,300,60,0,240,Swiggy Money,29,4.0,Delivered
+SWG10128,2026-03-08,Mar,3,Sunday,Chennai,Biryani Blues,Biryani,Snacks,4,1390,139,0,1251,Credit/Debit Card,37,2.0,Delivered
+SWG10083,2026-03-08,Mar,3,Sunday,Mumbai,Oven Story,Pizza,Dinner,3,1130,0,0,1130,Cash on Delivery,38,3.0,Delivered
+SWG10105,2026-03-08,Mar,3,Sunday,Delhi,Wok Station,Chinese,Dinner,1,200,60,40,180,Credit/Debit Card,43,5.0,Delivered
+SWG10194,2026-03-10,Mar,3,Tuesday,Hyderabad,Oven Story,Pizza,Lunch,3,940,94,0,846,Credit/Debit Card,39,3.0,Delivered
+SWG10311,2026-03-10,Mar,3,Tuesday,Lucknow,Idli Express,South Indian,Snacks,3,420,0,25,445,Credit/Debit Card,23,5.0,Delivered
+SWG10347,2026-03-11,Mar,3,Wednesday,Kolkata,Slice House,Pizza,Late Night,2,870,261,30,639,Cash on Delivery,30,4.0,Delivered
+SWG10141,2026-03-12,Mar,3,Thursday,Bengaluru,Burger Point,Fast Food,Dinner,2,470,141,0,329,UPI,15,4.0,Delivered
+SWG10288,2026-03-12,Mar,3,Thursday,Pune,Paradise Biryani,Biryani,Snacks,5,1900,190,0,1710,Cash on Delivery,22,5.0,Delivered
+SWG10123,2026-03-12,Mar,3,Thursday,Bengaluru,Royal Rasoi,North Indian,Dinner,2,440,44,0,396,UPI,27,3.0,Delivered
+SWG10234,2026-03-14,Mar,3,Saturday,Hyderabad,Oven Story,Pizza,Dinner,3,1330,0,25,1355,Credit/Debit Card,36,5.0,Delivered
+SWG10265,2026-03-15,Mar,3,Sunday,Kolkata,Punjabi Tadka,North Indian,Lunch,5,1080,324,30,786,UPI,29,4.0,Delivered
+SWG10339,2026-03-16,Mar,3,Monday,Pune,Burger Point,Fast Food,Dinner,4,840,168,0,672,Swiggy Money,36,4.0,Delivered
+SWG10221,2026-03-19,Mar,3,Thursday,Mumbai,Dosa Corner,South Indian,Breakfast,5,990,198,0,792,Swiggy Money,27,5.0,Delivered
+SWG10244,2026-03-20,Mar,3,Friday,Chennai,Hyderabad House,Biryani,Breakfast,1,280,28,40,292,Credit/Debit Card,50,3.0,Delivered
+SWG10010,2026-03-20,Mar,3,Friday,Hyderabad,Royal Rasoi,North Indian,Snacks,4,1160,0,0,1160,Swiggy Money,35,5.0,Delivered
+SWG10018,2026-03-21,Mar,3,Saturday,Delhi,Ice Dream,Desserts,Lunch,3,450,90,30,390,Credit/Debit Card,32,2.0,Delivered
+SWG10243,2026-03-22,Mar,3,Sunday,Lucknow,Ice Dream,Desserts,Breakfast,3,490,98,30,422,Credit/Debit Card,21,4.0,Delivered
+SWG10191,2026-03-23,Mar,3,Monday,Chennai,Burger Point,Fast Food,Lunch,1,260,0,25,285,Credit/Debit Card,24,4.0,Delivered
+SWG10295,2026-03-24,Mar,3,Tuesday,Mumbai,Wok Station,Chinese,Dinner,2,420,42,0,378,Swiggy Money,36,3.0,Delivered
+SWG10060,2026-03-24,Mar,3,Tuesday,Pune,Fit Kitchen,Healthy,Lunch,2,530,0,0,530,Cash on Delivery,40,4.0,Delivered
+SWG10026,2026-03-25,Mar,3,Wednesday,Delhi,Wok Station,Chinese,Late Night,4,1130,226,0,904,UPI,16,5.0,Delivered
+SWG10040,2026-03-26,Mar,3,Thursday,Delhi,Hyderabad House,Biryani,Dinner,2,560,112,30,478,UPI,34,5.0,Delivered
+SWG10154,2026-03-26,Mar,3,Thursday,Hyderabad,Punjabi Tadka,North Indian,Lunch,2,480,48,0,432,Credit/Debit Card,24,3.0,Delivered
+SWG10169,2026-03-28,Mar,3,Saturday,Pune,Wok Station,Chinese,Lunch,3,760,76,25,709,Credit/Debit Card,27,5.0,Delivered
+SWG10229,2026-03-28,Mar,3,Saturday,Bengaluru,Oven Story,Pizza,Late Night,4,1110,333,0,777,UPI,20,4.0,Delivered
+SWG10200,2026-03-28,Mar,3,Saturday,Bengaluru,Paradise Biryani,Biryani,Lunch,2,440,44,25,421,Swiggy Money,19,4.0,Delivered
+SWG10197,2026-03-28,Mar,3,Saturday,Hyderabad,Slice House,Pizza,Dinner,2,520,0,25,545,UPI,24,4.0,Delivered
+SWG10195,2026-03-30,Mar,3,Monday,Hyderabad,Dosa Corner,South Indian,Dinner,1,140,0,50,190,Cash on Delivery,32,4.0,Delivered
+SWG10095,2026-03-31,Mar,3,Tuesday,Pune,Oven Story,Pizza,Lunch,2,550,55,30,525,UPI,26,5.0,Delivered
+SWG10147,2026-03-31,Mar,3,Tuesday,Bengaluru,Oven Story,Pizza,Snacks,3,900,180,0,720,UPI,41,5.0,Delivered
+SWG10046,2026-04-01,Apr,4,Wednesday,Bengaluru,Fit Kitchen,Healthy,Dinner,3,1000,200,30,0,Credit/Debit Card,34,,Cancelled
+SWG10099,2026-04-01,Apr,4,Wednesday,Mumbai,Royal Rasoi,North Indian,Late Night,1,250,50,0,200,Swiggy Money,25,4.0,Delivered
+SWG10218,2026-04-02,Apr,4,Thursday,Bengaluru,Slice House,Pizza,Late Night,2,700,70,0,630,Credit/Debit Card,15,4.0,Delivered
+SWG10029,2026-04-02,Apr,4,Thursday,Hyderabad,Wrap Hub,Fast Food,Dinner,4,730,0,25,755,UPI,39,4.0,Delivered
+SWG10324,2026-04-02,Apr,4,Thursday,Hyderabad,Fit Kitchen,Healthy,Snacks,2,460,46,30,444,Credit/Debit Card,41,4.0,Delivered
+SWG10262,2026-04-03,Apr,4,Friday,Hyderabad,Slice House,Pizza,Lunch,4,1570,157,0,1413,Cash on Delivery,19,5.0,Delivered
+SWG10041,2026-04-04,Apr,4,Saturday,Delhi,Dragon Bowl,Chinese,Breakfast,1,240,0,40,280,UPI,27,5.0,Delivered
+SWG10117,2026-04-04,Apr,4,Saturday,Delhi,Burger Point,Fast Food,Dinner,4,900,270,30,660,Cash on Delivery,49,4.0,Delivered
+SWG10159,2026-04-07,Apr,4,Tuesday,Hyderabad,Wok Station,Chinese,Late Night,4,750,0,25,775,UPI,31,4.0,Delivered
+SWG10064,2026-04-08,Apr,4,Wednesday,Mumbai,Pizza Palace,Pizza,Late Night,5,1520,152,30,1398,UPI,28,5.0,Delivered
+SWG10264,2026-04-10,Apr,4,Friday,Bengaluru,Dhaba Express,North Indian,Dinner,3,750,75,30,705,UPI,50,4.0,Delivered
+SWG10109,2026-04-10,Apr,4,Friday,Pune,Oven Story,Pizza,Snacks,2,600,180,30,450,Credit/Debit Card,53,4.0,Delivered
+SWG10082,2026-04-16,Apr,4,Thursday,Chennai,Green Bowl,Healthy,Breakfast,1,250,75,50,225,Cash on Delivery,35,3.0,Delivered
+SWG10012,2026-04-19,Apr,4,Sunday,Hyderabad,Royal Rasoi,North Indian,Late Night,3,900,0,30,930,UPI,18,5.0,Delivered
+SWG10006,2026-04-19,Apr,4,Sunday,Pune,Punjabi Tadka,North Indian,Late Night,4,1120,112,0,1008,Credit/Debit Card,48,5.0,Delivered
+SWG10014,2026-04-20,Apr,4,Monday,Bengaluru,Royal Rasoi,North Indian,Dinner,2,480,0,30,510,UPI,33,5.0,Delivered
+SWG10113,2026-04-21,Apr,4,Tuesday,Bengaluru,Wrap Hub,Fast Food,Dinner,2,290,0,30,320,UPI,24,3.0,Delivered
+SWG10285,2026-04-21,Apr,4,Tuesday,Chennai,Crispy Bites,Fast Food,Snacks,1,220,0,40,260,Cash on Delivery,34,4.0,Delivered
+SWG10198,2026-04-22,Apr,4,Wednesday,Pune,Pizza Palace,Pizza,Late Night,2,850,0,30,880,UPI,26,5.0,Delivered
+SWG10165,2026-04-22,Apr,4,Wednesday,Hyderabad,Sweet Tooth,Desserts,Snacks,1,200,40,50,0,UPI,36,,Cancelled
+SWG10043,2026-04-22,Apr,4,Wednesday,Lucknow,Hyderabad House,Biryani,Snacks,1,240,0,0,240,UPI,31,5.0,Delivered
+SWG10094,2026-04-23,Apr,4,Thursday,Delhi,Paradise Biryani,Biryani,Snacks,3,890,178,0,712,Swiggy Money,37,1.0,Delivered
+SWG10233,2026-04-23,Apr,4,Thursday,Lucknow,Punjabi Tadka,North Indian,Dinner,3,620,124,0,0,UPI,44,,Cancelled
+SWG10188,2026-04-24,Apr,4,Friday,Delhi,Crispy Bites,Fast Food,Dinner,5,980,0,25,1005,UPI,30,4.0,Delivered
+SWG10263,2026-04-25,Apr,4,Saturday,Pune,Paradise Biryani,Biryani,Dinner,3,810,0,25,835,UPI,32,4.0,Delivered
+SWG10283,2026-04-25,Apr,4,Saturday,Hyderabad,Paradise Biryani,Biryani,Dinner,3,1130,113,0,1017,Credit/Debit Card,30,5.0,Delivered
+SWG10246,2026-04-26,Apr,4,Sunday,Delhi,Idli Express,South Indian,Dinner,1,110,11,30,129,Credit/Debit Card,42,3.0,Delivered
+SWG10257,2026-04-26,Apr,4,Sunday,Bengaluru,Royal Rasoi,North Indian,Dinner,4,1110,0,0,1110,UPI,36,5.0,Delivered
+SWG10170,2026-04-29,Apr,4,Wednesday,Pune,Dhaba Express,North Indian,Breakfast,4,700,0,0,700,UPI,30,3.0,Delivered
+SWG10206,2026-04-30,Apr,4,Thursday,Delhi,Punjabi Tadka,North Indian,Snacks,3,780,0,25,805,UPI,28,3.0,Delivered
+SWG10056,2026-04-30,Apr,4,Thursday,Delhi,Royal Rasoi,North Indian,Late Night,2,420,84,0,336,Cash on Delivery,36,4.0,Delivered
+SWG10199,2026-05-02,May,5,Saturday,Lucknow,Udupi Bhavan,South Indian,Lunch,2,360,36,0,324,UPI,31,4.0,Delivered
+SWG10161,2026-05-02,May,5,Saturday,Lucknow,Biryani Blues,Biryani,Lunch,4,1240,124,25,1141,Credit/Debit Card,39,4.0,Delivered
+SWG10126,2026-05-02,May,5,Saturday,Chennai,Oven Story,Pizza,Dinner,2,550,0,0,550,UPI,34,4.0,Delivered
+SWG10017,2026-05-02,May,5,Saturday,Kolkata,Dragon Bowl,Chinese,Lunch,1,290,58,0,232,UPI,26,2.0,Delivered
+SWG10292,2026-05-02,May,5,Saturday,Pune,Royal Rasoi,North Indian,Dinner,4,1090,218,30,902,Credit/Debit Card,39,5.0,Delivered
+SWG10011,2026-05-03,May,5,Sunday,Hyderabad,Wok Station,Chinese,Breakfast,1,200,60,30,170,Swiggy Money,45,4.0,Delivered
+SWG10037,2026-05-03,May,5,Sunday,Delhi,Hyderabad House,Biryani,Lunch,2,640,128,30,542,UPI,37,4.0,Delivered
+SWG10172,2026-05-04,May,5,Monday,Chennai,Udupi Bhavan,South Indian,Lunch,4,500,150,0,350,Cash on Delivery,32,5.0,Delivered
+SWG10071,2026-05-04,May,5,Monday,Hyderabad,Chung Wah,Chinese,Snacks,3,530,0,30,560,UPI,26,4.0,Delivered
+SWG10145,2026-05-05,May,5,Tuesday,Pune,Paradise Biryani,Biryani,Breakfast,3,770,0,0,770,Credit/Debit Card,36,3.0,Delivered
+SWG10005,2026-05-06,May,5,Wednesday,Mumbai,Hyderabad House,Biryani,Lunch,4,1290,129,0,1161,UPI,15,4.0,Delivered
+SWG10047,2026-05-06,May,5,Wednesday,Kolkata,Slice House,Pizza,Dinner,2,850,85,25,790,Credit/Debit Card,51,4.0,Delivered
+SWG10153,2026-05-07,May,5,Thursday,Lucknow,Udupi Bhavan,South Indian,Dinner,3,570,114,0,456,UPI,25,4.0,Delivered
+SWG10178,2026-05-07,May,5,Thursday,Kolkata,Idli Express,South Indian,Dinner,3,500,0,25,525,Cash on Delivery,47,3.0,Delivered
+SWG10308,2026-05-07,May,5,Thursday,Bengaluru,Dragon Bowl,Chinese,Dinner,4,1120,0,25,1145,Cash on Delivery,32,4.0,Delivered
+SWG10227,2026-05-08,May,5,Friday,Chennai,Biryani Blues,Biryani,Lunch,5,1080,108,30,1002,UPI,43,2.0,Delivered
+SWG10118,2026-05-10,May,5,Sunday,Kolkata,Biryani Blues,Biryani,Breakfast,2,560,112,30,478,Cash on Delivery,37,4.0,Delivered
+SWG10076,2026-05-12,May,5,Tuesday,Pune,Cake Walk,Desserts,Late Night,2,340,0,25,0,Credit/Debit Card,28,,Cancelled
+SWG10249,2026-05-13,May,5,Wednesday,Pune,Royal Rasoi,North Indian,Lunch,2,610,61,0,549,UPI,29,4.0,Delivered
+SWG10020,2026-05-14,May,5,Thursday,Kolkata,Dragon Bowl,Chinese,Lunch,3,480,0,25,505,UPI,34,3.0,Delivered
+SWG10007,2026-05-15,May,5,Friday,Delhi,Sweet Tooth,Desserts,Dinner,2,290,0,50,340,Credit/Debit Card,27,5.0,Delivered
+SWG10251,2026-05-16,May,5,Saturday,Hyderabad,Punjabi Tadka,North Indian,Snacks,2,490,0,30,520,Credit/Debit Card,21,4.0,Delivered
+SWG10055,2026-05-16,May,5,Saturday,Hyderabad,Dragon Bowl,Chinese,Dinner,3,840,0,0,840,Credit/Debit Card,39,1.0,Delivered
+SWG10023,2026-05-16,May,5,Saturday,Bengaluru,Dragon Bowl,Chinese,Dinner,2,470,94,0,376,UPI,36,4.0,Delivered
+SWG10027,2026-05-17,May,5,Sunday,Kolkata,Pizza Palace,Pizza,Lunch,2,790,158,0,632,Cash on Delivery,29,4.0,Delivered
+SWG10181,2026-05-18,May,5,Monday,Lucknow,Wok Station,Chinese,Snacks,1,210,0,30,240,UPI,39,4.0,Delivered
+SWG10050,2026-05-19,May,5,Tuesday,Delhi,Dragon Bowl,Chinese,Lunch,2,510,0,30,540,UPI,32,5.0,Delivered
+SWG10093,2026-05-20,May,5,Wednesday,Hyderabad,Royal Rasoi,North Indian,Snacks,1,190,19,0,171,UPI,22,3.0,Delivered
+SWG10091,2026-05-20,May,5,Wednesday,Chennai,Royal Rasoi,North Indian,Dinner,4,1140,0,0,1140,Credit/Debit Card,34,5.0,Delivered
+SWG10258,2026-05-21,May,5,Thursday,Kolkata,Wrap Hub,Fast Food,Snacks,3,440,0,25,465,UPI,40,4.0,Delivered
+SWG10121,2026-05-21,May,5,Thursday,Delhi,Idli Express,South Indian,Dinner,3,570,57,30,543,Cash on Delivery,37,4.0,Delivered
+SWG10136,2026-05-24,May,5,Sunday,Bengaluru,Wok Station,Chinese,Dinner,2,390,39,40,391,Swiggy Money,43,4.0,Delivered
+SWG10259,2026-05-25,May,5,Monday,Mumbai,Chung Wah,Chinese,Lunch,3,700,0,25,0,UPI,34,,Cancelled
+SWG10307,2026-05-26,May,5,Tuesday,Chennai,Udupi Bhavan,South Indian,Dinner,2,240,48,0,192,Credit/Debit Card,42,4.0,Delivered
+SWG10322,2026-05-26,May,5,Tuesday,Pune,Wok Station,Chinese,Dinner,2,380,76,0,304,Credit/Debit Card,33,4.0,Delivered
+SWG10210,2026-05-26,May,5,Tuesday,Bengaluru,Hyderabad House,Biryani,Dinner,1,310,31,50,329,Cash on Delivery,40,5.0,Delivered
+SWG10124,2026-05-27,May,5,Wednesday,Hyderabad,Sweet Tooth,Desserts,Dinner,1,200,40,25,0,UPI,43,,Cancelled
+SWG10291,2026-05-27,May,5,Wednesday,Hyderabad,Royal Rasoi,North Indian,Dinner,1,260,0,25,285,UPI,38,3.0,Delivered
+SWG10275,2026-05-29,May,5,Friday,Lucknow,Biryani Blues,Biryani,Snacks,2,450,0,0,450,UPI,28,5.0,Delivered
+SWG10289,2026-05-29,May,5,Friday,Hyderabad,Biryani Blues,Biryani,Dinner,3,920,0,0,920,Credit/Debit Card,40,5.0,Delivered
+SWG10294,2026-05-31,May,5,Sunday,Chennai,Burger Point,Fast Food,Snacks,3,630,63,0,0,UPI,47,,Cancelled
+SWG10273,2026-06-01,Jun,6,Monday,Hyderabad,Pizza Palace,Pizza,Lunch,4,1830,183,30,1677,UPI,15,4.0,Delivered
+SWG10230,2026-06-01,Jun,6,Monday,Mumbai,Biryani Blues,Biryani,Snacks,2,730,0,0,730,UPI,37,4.0,Delivered
+SWG10304,2026-06-02,Jun,6,Tuesday,Bengaluru,Idli Express,South Indian,Dinner,3,470,141,0,329,Credit/Debit Card,33,5.0,Delivered
+SWG10065,2026-06-02,Jun,6,Tuesday,Pune,Udupi Bhavan,South Indian,Dinner,4,610,122,25,513,UPI,26,4.0,Delivered
+SWG10072,2026-06-03,Jun,6,Wednesday,Pune,Cake Walk,Desserts,Dinner,3,410,41,25,394,UPI,34,4.0,Delivered
+SWG10031,2026-06-03,Jun,6,Wednesday,Mumbai,Dosa Corner,South Indian,Dinner,4,760,76,0,684,UPI,33,4.0,Delivered
+SWG10163,2026-06-03,Jun,6,Wednesday,Delhi,Paradise Biryani,Biryani,Dinner,1,300,0,25,325,Credit/Debit Card,42,4.0,Delivered
+SWG10183,2026-06-03,Jun,6,Wednesday,Mumbai,Paradise Biryani,Biryani,Lunch,4,1440,432,0,1008,UPI,37,5.0,Delivered
+SWG10022,2026-06-03,Jun,6,Wednesday,Bengaluru,Oven Story,Pizza,Late Night,3,1140,342,0,798,UPI,31,5.0,Delivered
+SWG10131,2026-06-04,Jun,6,Thursday,Mumbai,Biryani Blues,Biryani,Snacks,3,950,0,25,975,UPI,36,2.0,Delivered
+SWG10182,2026-06-05,Jun,6,Friday,Lucknow,Wrap Hub,Fast Food,Breakfast,2,440,44,0,396,Cash on Delivery,35,5.0,Delivered
+SWG10032,2026-06-05,Jun,6,Friday,Kolkata,Crispy Bites,Fast Food,Lunch,4,870,0,0,870,UPI,25,4.0,Delivered
+SWG10214,2026-06-08,Jun,6,Monday,Kolkata,Green Bowl,Healthy,Dinner,1,250,25,0,225,UPI,41,5.0,Delivered
+SWG10335,2026-06-11,Jun,6,Thursday,Delhi,Royal Rasoi,North Indian,Snacks,4,1210,242,25,993,UPI,48,4.0,Delivered
+SWG10332,2026-06-11,Jun,6,Thursday,Delhi,Hyderabad House,Biryani,Snacks,2,700,0,0,700,Cash on Delivery,15,4.0,Delivered
+SWG10237,2026-06-12,Jun,6,Friday,Delhi,Biryani Blues,Biryani,Lunch,5,1690,169,30,1551,Credit/Debit Card,44,5.0,Delivered
+SWG10224,2026-06-12,Jun,6,Friday,Lucknow,Biryani Blues,Biryani,Snacks,2,530,106,25,449,Cash on Delivery,31,5.0,Delivered
+SWG10167,2026-06-13,Jun,6,Saturday,Chennai,Biryani Blues,Biryani,Late Night,2,730,73,30,687,UPI,26,3.0,Delivered
+SWG10190,2026-06-13,Jun,6,Saturday,Delhi,Pizza Palace,Pizza,Breakfast,2,650,0,30,680,Cash on Delivery,42,5.0,Delivered
+SWG10086,2026-06-16,Jun,6,Tuesday,Kolkata,Royal Rasoi,North Indian,Snacks,1,250,0,30,280,Credit/Debit Card,37,4.0,Delivered
+SWG10078,2026-06-17,Jun,6,Wednesday,Hyderabad,Oven Story,Pizza,Late Night,4,1100,0,0,1100,Swiggy Money,35,2.0,Delivered
+SWG10120,2026-06-17,Jun,6,Wednesday,Bengaluru,Dragon Bowl,Chinese,Dinner,4,910,0,0,910,UPI,37,4.0,Delivered
+SWG10149,2026-06-19,Jun,6,Friday,Delhi,Cake Walk,Desserts,Lunch,4,670,0,0,670,Credit/Debit Card,26,5.0,Delivered
+SWG10297,2026-06-19,Jun,6,Friday,Pune,Royal Rasoi,North Indian,Lunch,2,450,0,0,450,Cash on Delivery,26,4.0,Delivered
+SWG10239,2026-06-19,Jun,6,Friday,Kolkata,Green Bowl,Healthy,Dinner,2,580,174,0,406,Cash on Delivery,38,5.0,Delivered
+SWG10112,2026-06-21,Jun,6,Sunday,Delhi,Udupi Bhavan,South Indian,Dinner,1,130,0,0,130,Credit/Debit Card,45,4.0,Delivered
+SWG10138,2026-06-22,Jun,6,Monday,Hyderabad,Chung Wah,Chinese,Dinner,2,470,0,25,495,UPI,37,4.0,Delivered
+SWG10119,2026-06-23,Jun,6,Tuesday,Mumbai,Punjabi Tadka,North Indian,Late Night,2,590,118,30,502,Credit/Debit Card,22,4.0,Delivered
+SWG10279,2026-06-23,Jun,6,Tuesday,Chennai,Dhaba Express,North Indian,Dinner,4,970,194,0,776,UPI,32,5.0,Delivered
+SWG10009,2026-06-24,Jun,6,Wednesday,Kolkata,Royal Rasoi,North Indian,Lunch,3,790,79,25,0,UPI,23,,Cancelled
+SWG10048,2026-06-24,Jun,6,Wednesday,Delhi,Chung Wah,Chinese,Lunch,2,440,44,25,421,UPI,40,5.0,Delivered
+SWG10341,2026-06-26,Jun,6,Friday,Hyderabad,Dosa Corner,South Indian,Breakfast,2,280,28,30,0,Credit/Debit Card,43,,Cancelled
+SWG10162,2026-06-26,Jun,6,Friday,Hyderabad,Wrap Hub,Fast Food,Late Night,1,230,23,0,207,Credit/Debit Card,41,5.0,Delivered
+SWG10132,2026-06-26,Jun,6,Friday,Delhi,Idli Express,South Indian,Late Night,2,240,48,30,222,UPI,20,4.0,Delivered
+SWG10045,2026-06-27,Jun,6,Saturday,Chennai,Paradise Biryani,Biryani,Dinner,3,1050,210,0,840,Cash on Delivery,35,1.0,Delivered
+SWG10125,2026-06-27,Jun,6,Saturday,Kolkata,Idli Express,South Indian,Dinner,4,590,0,25,615,Swiggy Money,30,3.0,Delivered
+SWG10143,2026-06-28,Jun,6,Sunday,Lucknow,Slice House,Pizza,Dinner,3,1190,119,30,1101,UPI,48,4.0,Delivered
+SWG10098,2026-06-28,Jun,6,Sunday,Mumbai,Slice House,Pizza,Lunch,1,380,38,25,0,Cash on Delivery,37,,Cancelled
+SWG10240,2026-06-29,Jun,6,Monday,Chennai,Wrap Hub,Fast Food,Lunch,2,290,0,0,290,UPI,54,1.0,Delivered
+SWG10042,2026-06-29,Jun,6,Monday,Lucknow,Dosa Corner,South Indian,Lunch,4,600,120,0,480,Cash on Delivery,35,5.0,Delivered
+SWG10256,2026-06-29,Jun,6,Monday,Chennai,Hyderabad House,Biryani,Lunch,2,580,174,30,436,UPI,25,4.0,Delivered
+SWG10074,2026-06-30,Jun,6,Tuesday,Kolkata,Crispy Bites,Fast Food,Lunch,4,1010,202,0,808,Cash on Delivery,26,4.0,Delivered
+SWG10334,2026-07-02,Jul,7,Thursday,Mumbai,Crispy Bites,Fast Food,Lunch,4,680,0,0,680,Swiggy Money,42,5.0,Delivered
+SWG10269,2026-07-03,Jul,7,Friday,Hyderabad,Dosa Corner,South Indian,Dinner,3,360,108,40,292,Credit/Debit Card,45,1.0,Delivered
+SWG10225,2026-07-03,Jul,7,Friday,Hyderabad,Punjabi Tadka,North Indian,Late Night,1,230,23,50,257,Cash on Delivery,33,3.0,Delivered
+SWG10179,2026-07-04,Jul,7,Saturday,Bengaluru,Idli Express,South Indian,Dinner,2,230,69,40,201,UPI,39,4.0,Delivered
+SWG10184,2026-07-06,Jul,7,Monday,Chennai,Chung Wah,Chinese,Lunch,3,560,56,30,534,UPI,30,4.0,Delivered
+SWG10025,2026-07-06,Jul,7,Monday,Hyderabad,Pizza Palace,Pizza,Late Night,3,850,0,25,875,Credit/Debit Card,36,3.0,Delivered
+SWG10077,2026-07-07,Jul,7,Tuesday,Delhi,Royal Rasoi,North Indian,Lunch,5,940,282,30,688,Credit/Debit Card,27,4.0,Delivered
+SWG10217,2026-07-08,Jul,7,Wednesday,Hyderabad,Royal Rasoi,North Indian,Lunch,2,440,44,0,396,Credit/Debit Card,34,3.0,Delivered
+SWG10152,2026-07-08,Jul,7,Wednesday,Hyderabad,Sweet Tooth,Desserts,Dinner,3,450,0,25,475,UPI,41,3.0,Delivered
+SWG10219,2026-07-10,Jul,7,Friday,Delhi,Biryani Blues,Biryani,Lunch,2,670,0,0,670,Swiggy Money,30,4.0,Delivered
+SWG10270,2026-07-12,Jul,7,Sunday,Bengaluru,Burger Point,Fast Food,Dinner,3,490,49,0,441,Credit/Debit Card,51,4.0,Delivered
+SWG10242,2026-07-12,Jul,7,Sunday,Pune,Biryani Blues,Biryani,Lunch,2,750,0,0,750,UPI,21,5.0,Delivered
+SWG10202,2026-07-12,Jul,7,Sunday,Mumbai,Pizza Palace,Pizza,Snacks,2,560,56,30,534,UPI,28,5.0,Delivered
+SWG10281,2026-07-13,Jul,7,Monday,Bengaluru,Dragon Bowl,Chinese,Snacks,2,560,0,0,560,UPI,32,4.0,Delivered
+SWG10350,2026-07-13,Jul,7,Monday,Delhi,Chung Wah,Chinese,Lunch,2,350,70,40,320,Cash on Delivery,17,4.0,Delivered
+SWG10168,2026-07-14,Jul,7,Tuesday,Hyderabad,Chung Wah,Chinese,Dinner,3,580,0,0,580,UPI,43,4.0,Delivered
+SWG10271,2026-07-14,Jul,7,Tuesday,Bengaluru,Punjabi Tadka,North Indian,Lunch,4,700,0,30,730,UPI,31,5.0,Delivered
+SWG10231,2026-07-15,Jul,7,Wednesday,Bengaluru,Hyderabad House,Biryani,Dinner,4,1210,121,0,1089,UPI,30,5.0,Delivered
+SWG10176,2026-07-16,Jul,7,Thursday,Kolkata,Hyderabad House,Biryani,Dinner,3,930,186,25,769,UPI,35,5.0,Delivered
+SWG10066,2026-07-16,Jul,7,Thursday,Hyderabad,Chung Wah,Chinese,Lunch,2,400,0,0,400,UPI,26,2.0,Delivered
+SWG10104,2026-07-17,Jul,7,Friday,Delhi,Chung Wah,Chinese,Lunch,3,720,0,0,720,Cash on Delivery,30,5.0,Delivered
+SWG10261,2026-07-18,Jul,7,Saturday,Bengaluru,Royal Rasoi,North Indian,Dinner,2,420,126,30,324,UPI,15,4.0,Delivered
+SWG10247,2026-07-18,Jul,7,Saturday,Bengaluru,Biryani Blues,Biryani,Dinner,2,760,76,0,684,UPI,28,4.0,Delivered
+SWG10039,2026-07-19,Jul,7,Sunday,Bengaluru,Ice Dream,Desserts,Dinner,3,500,150,25,375,Cash on Delivery,44,4.0,Delivered
+SWG10238,2026-07-20,Jul,7,Monday,Pune,Dosa Corner,South Indian,Dinner,3,400,0,0,400,Credit/Debit Card,34,4.0,Delivered
+SWG10134,2026-07-21,Jul,7,Tuesday,Bengaluru,Green Bowl,Healthy,Dinner,2,690,69,0,0,Credit/Debit Card,33,,Cancelled
+SWG10044,2026-07-23,Jul,7,Thursday,Pune,Salad Stop,Healthy,Late Night,1,200,0,40,240,UPI,39,4.0,Delivered
+SWG10177,2026-07-23,Jul,7,Thursday,Chennai,Biryani Blues,Biryani,Late Night,1,250,0,50,300,UPI,26,4.0,Delivered
+SWG10340,2026-07-23,Jul,7,Thursday,Pune,Dragon Bowl,Chinese,Lunch,3,770,0,0,770,UPI,22,3.0,Delivered
+SWG10166,2026-07-23,Jul,7,Thursday,Mumbai,Wrap Hub,Fast Food,Late Night,3,700,210,0,490,UPI,26,5.0,Delivered
+SWG10028,2026-07-24,Jul,7,Friday,Delhi,Paradise Biryani,Biryani,Lunch,3,750,0,0,750,UPI,24,5.0,Delivered
+SWG10186,2026-07-25,Jul,7,Saturday,Bengaluru,Udupi Bhavan,South Indian,Dinner,2,300,30,50,320,Credit/Debit Card,29,5.0,Delivered
+SWG10338,2026-07-25,Jul,7,Saturday,Delhi,Hyderabad House,Biryani,Lunch,2,570,114,25,481,Credit/Debit Card,27,3.0,Delivered
+SWG10310,2026-07-27,Jul,7,Monday,Mumbai,Wrap Hub,Fast Food,Dinner,3,690,138,0,552,Credit/Debit Card,46,2.0,Delivered
+SWG10080,2026-07-28,Jul,7,Tuesday,Hyderabad,Wok Station,Chinese,Late Night,3,810,162,30,678,UPI,29,5.0,Delivered
+SWG10323,2026-07-29,Jul,7,Wednesday,Pune,Dragon Bowl,Chinese,Snacks,1,160,32,30,158,Credit/Debit Card,38,5.0,Delivered
+SWG10196,2026-07-29,Jul,7,Wednesday,Lucknow,Udupi Bhavan,South Indian,Dinner,1,140,14,40,166,UPI,37,5.0,Delivered
+SWG10015,2026-07-30,Jul,7,Thursday,Pune,Pizza Palace,Pizza,Snacks,1,270,27,40,0,UPI,30,,Cancelled
+SWG10344,2026-07-31,Jul,7,Friday,Mumbai,Dosa Corner,South Indian,Lunch,4,560,56,30,534,Credit/Debit Card,37,3.0,Delivered
+SWG10290,2026-08-02,Aug,8,Sunday,Chennai,Paradise Biryani,Biryani,Dinner,1,270,27,50,293,Cash on Delivery,34,4.0,Delivered
+SWG10222,2026-08-03,Aug,8,Monday,Bengaluru,Crispy Bites,Fast Food,Snacks,4,930,0,0,930,UPI,35,5.0,Delivered
+SWG10133,2026-08-03,Aug,8,Monday,Mumbai,Dhaba Express,North Indian,Lunch,2,380,0,40,420,UPI,35,4.0,Delivered
+SWG10092,2026-08-03,Aug,8,Monday,Bengaluru,Wrap Hub,Fast Food,Snacks,5,780,78,30,732,Cash on Delivery,38,4.0,Delivered
+SWG10213,2026-08-05,Aug,8,Wednesday,Mumbai,Cake Walk,Desserts,Dinner,4,640,0,30,670,UPI,45,4.0,Delivered
+SWG10001,2026-08-05,Aug,8,Wednesday,Chennai,Royal Rasoi,North Indian,Breakfast,2,400,80,0,320,Credit/Debit Card,36,4.0,Delivered
+SWG10002,2026-08-05,Aug,8,Wednesday,Hyderabad,Paradise Biryani,Biryani,Lunch,3,1050,0,0,1050,UPI,35,5.0,Delivered
+SWG10207,2026-08-05,Aug,8,Wednesday,Bengaluru,Biryani Blues,Biryani,Dinner,3,630,126,0,504,UPI,31,5.0,Delivered
+SWG10016,2026-08-05,Aug,8,Wednesday,Chennai,Pizza Palace,Pizza,Lunch,1,290,29,25,286,UPI,20,5.0,Delivered
+SWG10035,2026-08-06,Aug,8,Thursday,Delhi,Punjabi Tadka,North Indian,Lunch,3,880,176,0,704,UPI,36,4.0,Delivered
+SWG10300,2026-08-06,Aug,8,Thursday,Pune,Chung Wah,Chinese,Dinner,3,550,55,0,495,Cash on Delivery,33,5.0,Delivered
+SWG10090,2026-08-08,Aug,8,Saturday,Pune,Hyderabad House,Biryani,Dinner,3,690,0,0,0,Credit/Debit Card,32,,Cancelled
+SWG10096,2026-08-08,Aug,8,Saturday,Kolkata,Punjabi Tadka,North Indian,Dinner,1,300,60,50,290,UPI,35,4.0,Delivered
+SWG10205,2026-08-08,Aug,8,Saturday,Pune,Udupi Bhavan,South Indian,Lunch,1,190,19,0,171,UPI,30,3.0,Delivered
+SWG10087,2026-08-09,Aug,8,Sunday,Bengaluru,Burger Point,Fast Food,Snacks,4,890,178,0,712,UPI,32,4.0,Delivered
+SWG10108,2026-08-13,Aug,8,Thursday,Delhi,Dhaba Express,North Indian,Breakfast,4,1100,220,0,880,Credit/Debit Card,17,5.0,Delivered
+SWG10103,2026-08-13,Aug,8,Thursday,Kolkata,Paradise Biryani,Biryani,Late Night,3,890,0,0,890,UPI,21,5.0,Delivered
+SWG10062,2026-08-13,Aug,8,Thursday,Pune,Crispy Bites,Fast Food,Late Night,3,510,51,25,484,Credit/Debit Card,32,1.0,Delivered
+SWG10315,2026-08-14,Aug,8,Friday,Pune,Paradise Biryani,Biryani,Lunch,3,1100,0,0,1100,Credit/Debit Card,42,3.0,Delivered
+SWG10100,2026-08-14,Aug,8,Friday,Hyderabad,Wrap Hub,Fast Food,Breakfast,3,740,74,0,666,Credit/Debit Card,25,4.0,Delivered
+SWG10253,2026-08-15,Aug,8,Saturday,Pune,Oven Story,Pizza,Dinner,3,1370,0,25,1395,UPI,31,3.0,Delivered
+SWG10342,2026-08-17,Aug,8,Monday,Chennai,Chung Wah,Chinese,Late Night,5,960,0,30,990,Swiggy Money,43,4.0,Delivered
+SWG10325,2026-08-17,Aug,8,Monday,Pune,Idli Express,South Indian,Dinner,1,190,0,25,215,Credit/Debit Card,40,5.0,Delivered
+SWG10157,2026-08-18,Aug,8,Tuesday,Pune,Salad Stop,Healthy,Dinner,3,800,240,30,590,UPI,43,5.0,Delivered
+SWG10054,2026-08-19,Aug,8,Wednesday,Mumbai,Dragon Bowl,Chinese,Late Night,2,470,47,30,453,UPI,30,4.0,Delivered
+SWG10313,2026-08-21,Aug,8,Friday,Delhi,Royal Rasoi,North Indian,Late Night,2,590,59,30,561,Cash on Delivery,43,5.0,Delivered
+SWG10220,2026-08-22,Aug,8,Saturday,Bengaluru,Udupi Bhavan,South Indian,Breakfast,2,370,0,50,420,Credit/Debit Card,29,4.0,Delivered
+SWG10155,2026-08-22,Aug,8,Saturday,Delhi,Cake Walk,Desserts,Dinner,2,250,0,40,290,Cash on Delivery,25,1.0,Delivered
+SWG10034,2026-08-22,Aug,8,Saturday,Mumbai,Hyderabad House,Biryani,Snacks,1,250,25,0,225,UPI,22,3.0,Delivered
+SWG10085,2026-08-23,Aug,8,Sunday,Delhi,Biryani Blues,Biryani,Dinner,3,1010,303,25,732,UPI,65,4.0,Delivered
+SWG10306,2026-08-25,Aug,8,Tuesday,Bengaluru,Paradise Biryani,Biryani,Dinner,3,760,0,0,760,UPI,19,5.0,Delivered
+SWG10063,2026-08-25,Aug,8,Tuesday,Mumbai,Dhaba Express,North Indian,Late Night,3,740,0,0,0,Credit/Debit Card,29,,Cancelled
+SWG10038,2026-08-27,Aug,8,Thursday,Bengaluru,Idli Express,South Indian,Snacks,1,130,13,30,147,Swiggy Money,35,4.0,Delivered
+SWG10068,2026-08-29,Aug,8,Saturday,Kolkata,Dhaba Express,North Indian,Dinner,1,290,87,0,203,Credit/Debit Card,51,4.0,Delivered
+SWG10212,2026-08-30,Aug,8,Sunday,Kolkata,Punjabi Tadka,North Indian,Late Night,4,990,99,0,891,UPI,43,1.0,Delivered
+SWG10326,2026-08-30,Aug,8,Sunday,Chennai,Punjabi Tadka,North Indian,Late Night,2,510,102,0,408,UPI,30,2.0,Delivered
+SWG10139,2026-08-31,Aug,8,Monday,Pune,Dosa Corner,South Indian,Lunch,3,590,59,0,531,Credit/Debit Card,20,3.0,Delivered
+SWG10345,2026-08-31,Aug,8,Monday,Kolkata,Wrap Hub,Fast Food,Dinner,1,160,0,0,160,Credit/Debit Card,44,3.0,Delivered
+SWG10146,2026-09-01,Sep,9,Tuesday,Bengaluru,Oven Story,Pizza,Snacks,1,370,111,40,299,UPI,28,5.0,Delivered
+SWG10333,2026-09-01,Sep,9,Tuesday,Mumbai,Punjabi Tadka,North Indian,Lunch,3,850,0,0,850,UPI,34,5.0,Delivered
+SWG10102,2026-09-01,Sep,9,Tuesday,Pune,Cake Walk,Desserts,Dinner,2,400,80,25,0,UPI,36,,Cancelled
+SWG10252,2026-09-01,Sep,9,Tuesday,Chennai,Udupi Bhavan,South Indian,Late Night,2,370,74,0,296,UPI,32,1.0,Delivered
+SWG10349,2026-09-02,Sep,9,Wednesday,Hyderabad,Slice House,Pizza,Lunch,1,310,31,40,319,UPI,33,5.0,Delivered
+SWG10316,2026-09-03,Sep,9,Thursday,Pune,Burger Point,Fast Food,Lunch,2,370,0,40,410,UPI,37,5.0,Delivered
+SWG10110,2026-09-04,Sep,9,Friday,Delhi,Royal Rasoi,North Indian,Dinner,1,250,50,0,200,Cash on Delivery,29,3.0,Delivered
+SWG10318,2026-09-04,Sep,9,Friday,Chennai,Crispy Bites,Fast Food,Lunch,2,310,31,40,319,Cash on Delivery,27,4.0,Delivered
+SWG10278,2026-09-05,Sep,9,Saturday,Hyderabad,Dosa Corner,South Indian,Late Night,3,530,53,0,477,UPI,15,4.0,Delivered
+SWG10142,2026-09-05,Sep,9,Saturday,Hyderabad,Wok Station,Chinese,Lunch,3,810,162,25,673,Swiggy Money,21,4.0,Delivered
+SWG10331,2026-09-05,Sep,9,Saturday,Lucknow,Ice Dream,Desserts,Dinner,4,710,142,30,598,Cash on Delivery,37,4.0,Delivered
+SWG10312,2026-09-05,Sep,9,Saturday,Pune,Punjabi Tadka,North Indian,Late Night,1,250,25,25,250,UPI,31,5.0,Delivered
+SWG10189,2026-09-05,Sep,9,Saturday,Delhi,Dosa Corner,South Indian,Lunch,3,510,0,0,510,UPI,15,5.0,Delivered
+SWG10204,2026-09-06,Sep,9,Sunday,Lucknow,Pizza Palace,Pizza,Dinner,2,640,0,0,640,UPI,40,5.0,Delivered
+SWG10309,2026-09-07,Sep,9,Monday,Bengaluru,Burger Point,Fast Food,Dinner,4,800,80,25,745,Cash on Delivery,41,5.0,Delivered
+SWG10299,2026-09-07,Sep,9,Monday,Hyderabad,Biryani Blues,Biryani,Breakfast,4,1420,142,30,1308,Swiggy Money,36,5.0,Delivered
+SWG10266,2026-09-08,Sep,9,Tuesday,Bengaluru,Udupi Bhavan,South Indian,Dinner,2,360,36,25,349,Credit/Debit Card,23,3.0,Delivered
+SWG10052,2026-09-09,Sep,9,Wednesday,Hyderabad,Paradise Biryani,Biryani,Lunch,5,1530,306,0,1224,UPI,30,4.0,Delivered
+SWG10049,2026-09-09,Sep,9,Wednesday,Lucknow,Royal Rasoi,North Indian,Snacks,3,710,142,30,598,Credit/Debit Card,38,3.0,Delivered
+SWG10053,2026-09-09,Sep,9,Wednesday,Mumbai,Dhaba Express,North Indian,Breakfast,4,940,188,30,782,UPI,30,4.0,Delivered
+SWG10211,2026-09-11,Sep,9,Friday,Mumbai,Wok Station,Chinese,Snacks,1,210,21,25,214,Swiggy Money,32,5.0,Delivered
+SWG10067,2026-09-11,Sep,9,Friday,Kolkata,Udupi Bhavan,South Indian,Late Night,5,900,180,0,720,UPI,46,3.0,Delivered
+SWG10286,2026-09-13,Sep,9,Sunday,Hyderabad,Oven Story,Pizza,Breakfast,2,780,234,0,546,Cash on Delivery,19,4.0,Delivered
+SWG10320,2026-09-15,Sep,9,Tuesday,Pune,Chung Wah,Chinese,Dinner,1,270,27,50,293,Credit/Debit Card,39,5.0,Delivered
+SWG10036,2026-09-16,Sep,9,Wednesday,Pune,Burger Point,Fast Food,Snacks,5,1080,324,30,786,Credit/Debit Card,20,4.0,Delivered
+SWG10107,2026-09-17,Sep,9,Thursday,Pune,Hyderabad House,Biryani,Dinner,5,1190,0,0,1190,UPI,45,4.0,Delivered
+SWG10106,2026-09-18,Sep,9,Friday,Pune,Burger Point,Fast Food,Snacks,3,620,62,30,588,UPI,29,3.0,Delivered
+SWG10137,2026-09-18,Sep,9,Friday,Delhi,Slice House,Pizza,Snacks,2,900,180,0,720,UPI,34,5.0,Delivered
+SWG10272,2026-09-19,Sep,9,Saturday,Chennai,Burger Point,Fast Food,Dinner,2,430,0,0,430,UPI,49,3.0,Delivered
+SWG10274,2026-09-19,Sep,9,Saturday,Chennai,Ice Dream,Desserts,Breakfast,4,750,0,0,750,UPI,26,5.0,Delivered
+SWG10061,2026-09-21,Sep,9,Monday,Hyderabad,Idli Express,South Indian,Dinner,2,270,81,40,229,UPI,53,2.0,Delivered
+SWG10284,2026-09-25,Sep,9,Friday,Bengaluru,Oven Story,Pizza,Snacks,2,650,130,25,545,UPI,43,5.0,Delivered
+SWG10051,2026-09-26,Sep,9,Saturday,Hyderabad,Oven Story,Pizza,Dinner,1,300,30,50,320,UPI,52,4.0,Delivered
+SWG10127,2026-09-27,Sep,9,Sunday,Lucknow,Punjabi Tadka,North Indian,Snacks,4,710,71,30,669,UPI,23,4.0,Delivered
+SWG10193,2026-09-28,Sep,9,Monday,Pune,Dragon Bowl,Chinese,Late Night,2,360,0,40,400,Cash on Delivery,28,3.0,Delivered
+SWG10321,2026-09-29,Sep,9,Tuesday,Bengaluru,Ice Dream,Desserts,Snacks,3,490,49,0,441,Swiggy Money,40,4.0,Delivered
+SWG10171,2026-09-30,Sep,9,Wednesday,Hyderabad,Burger Point,Fast Food,Dinner,3,610,61,0,549,Credit/Debit Card,46,5.0,Delivered
